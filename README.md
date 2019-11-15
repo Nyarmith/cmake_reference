@@ -1,4 +1,4 @@
-# cmake_reference
-the way I set up cmake.   
+# cmake reference
 
-The test/ directory is the more interesting part. I stole gmake auto-download cmake file from  https://stackoverflow.com/questions/9689183/cmake-googletest
+* Minimal has a minimal setup with instructions
+* SFML has a sfml 2.5 project
